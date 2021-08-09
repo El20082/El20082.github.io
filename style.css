@@ -1,0 +1,26 @@
+#web-text{
+    margin: 200px;
+}
+
+#web-title{
+    font-size: 50px;
+    font-weight: 1000;
+    font-family: Arial, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+.red-text{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+img {
+    height: 100px;
+    width: 150px;
+}
+
+body {
+    background-color:bisque;
+}
